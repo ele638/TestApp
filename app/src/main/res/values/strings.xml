@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test App</string>
+    <string name="fetch">Fetch</string>
+    <string name="details">Details</string>
+</resources>
